@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UmutTur-crypto
 - 👀 I’m interested in ... Crypto
-- 🌱 I’m currently learning ... Pythhon
+- 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... GitHub
 - 📫 How to reach me ...  +905079381534
 
